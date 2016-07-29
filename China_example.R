@@ -1,27 +1,3 @@
-# ------------------------------------------------------------------------------
-# Book: N.M. Tran, M. Osipenko, and W.K. Härdle 'Principal Components in an
-# Asymmetric Norm'
-# ------------------------------------------------------------------------------
-# Quantlet: China_example
-# ------------------------------------------------------------------------------
-# Description: This is the application of TopDown, BottomUp and
-# PrincipalExpectile algorithms to the Chinese weather data
-# ------------------------------------------------------------------------------
-# See also: fpca.R, PrincipalExpectile.R
-# ------------------------------------------------------------------------------
-# Keywords: PCA, principal components, expectile, quantile
-# ------------------------------------------------------------------------------
-# Usage: depends on function libraries fpca.R and PrincipalDirection.R
-# ------------------------------------------------------------------------------
-# Inputs: temperature.txt, geopos.csv
-# ------------------------------------------------------------------------------
-# Output: Plots of expectile components and scores
-# ------------------------------------------------------------------------------
-# Example: Estimation is done for the expectile levels 0.05, 0.5, and 0.95.
-# ------------------------------------------------------------------------------
-# Author: Ngoc Mai Tran, Maria Osipenko
-# ------------------------------------------------------------------------------
-
 rm(list = ls())
 graphics.off()
 
