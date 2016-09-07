@@ -1,14 +1,14 @@
-Name of Quantlet: China_example
+Name of Quantlet: 'PEC_temperature'
 
-Published in: Principal Component Analysis in an Asymmetric Norm
+Published in: 'Principal Component Analysis in an Asymmetric Norm'
 
 Description: 'This is the application of TopDown, BottomUp and PrincipalExpectile algorithms to the Chinese weather data'
 
 Keywords: expectile, pca, principal-components, quantile
 
-See also: PrincipalDirection.R, TXTBreweries, fpca.R
+See also: 'PEC_algorithm_princdir.R , PEC_algorithm_topdown.R’
 
-Author: Ngoc M. Tran, Maria Osipenko
+Author: Ngoc M. Tran, Maria Osipenko, Petra Burdejova
 
 Submitted:  Fri, July 29 2016 by Lining Yu
 

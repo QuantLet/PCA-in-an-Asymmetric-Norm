@@ -1,19 +1,19 @@
-Name of Quantlet: China_example
+Name of Quantlet: 'PEC_fMRI'
 
 Published in: Principal Component Analysis in an Asymmetric Norm
 
-Description: 'This is the application of TopDown, BottomUp and PrincipalExpectile algorithms to the Chinese weather data'
+Description: 'This is the application of  PrincipalExpectile algorithms to the fMRI data'
 
 Keywords: expectile, pca, principal-components, quantile
 
-See also: PrincipalDirection.R, TXTBreweries, fpca.R
+See also: 'PEC_algorithm_princdir.R , PEC_algorithm_topdown.R’
 
-Author: Ngoc M. Tran, Maria Osipenko
+Author: Ngoc M. Tran, Maria Osipenko, Petra Burdejova
 
-Submitted:  Fri, July 29 2016 by Lining Yu
+Submitted:  Sept 07 2016 by Petra Burdejova
 
-Input: geopos.csv, temperature.txt
+Input: 'per_voxel_data.RData, Risk_Att.mat'
 
 Output:  Plots of expectile components and scores
 
-Example: 'TopDown (TD), BottomUp (BUP), and PrincipalExpetile (PEC) components for the expectile levels 0.05, 0.5, and 0.95.'
+Example:  PrincipalExpetile (PEC) components for the expectile levels 0.05, …, 0.95.'
