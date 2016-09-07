@@ -1,0 +1,19 @@
+Name of Quantlet: China_example
+
+Published in: Principal Component Analysis in an Asymmetric Norm
+
+Description: 'This is the application of TopDown, BottomUp and PrincipalExpectile algorithms to the Chinese weather data'
+
+Keywords: expectile, pca, principal-components, quantile
+
+See also: PrincipalDirection.R, TXTBreweries, fpca.R
+
+Author: Ngoc M. Tran, Maria Osipenko
+
+Submitted:  Fri, July 29 2016 by Lining Yu
+
+Input: geopos.csv, temperature.txt
+
+Output:  Plots of expectile components and scores
+
+Example: 'TopDown (TD), BottomUp (BUP), and PrincipalExpetile (PEC) components for the expectile levels 0.05, 0.5, and 0.95.'
