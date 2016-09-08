@@ -1,4 +1,4 @@
-Name of Quantlet: ‘PEC_alhgorithm_princtdir’
+Name of Quantlet: ‘PEC_algorithm_princtdir’
 
 Published in: Principal Component Analysis in an Asymmetric Norm
 
