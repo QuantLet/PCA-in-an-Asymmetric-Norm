@@ -1,0 +1,6 @@
+|Q-Quali |Q folders              |Q Names                       |Descriptions stats         |Keywords stats           |Meta Info data fields |Q Code    |Quote signs   |PDF files                                |
+|:-------|:----------------------|:-----------------------------|:--------------------------|:------------------------|:---------------------|:---------|:-------------|:----------------------------------------|
+|C       |PEC_algorithm_princdir |‘PEC_algorithm_princtdir’ |7 word(s), 44 Character(s) |4: 4 (standard), 0 (new) |q, p, a, d, k, s, sa  |NOT FOUND |Wrong quotes! |                                         |
+|C       |PEC_algorithm_topdown  |PEC_algorithm_topdown         |9 word(s), 46 Character(s) |4: 4 (standard), 0 (new) |q, p, a, d, k, s, sa  |ok        |Wrong quotes! |                                         |
+|D       |PEC_fMRI               |YAML error!                   |NA                         |0: 0 (standard), 0 (new) |                      |NOT FOUND |              |If PDF is a picture PNG or JPG required! |
+|D       |PEC_temperature        |YAML error!                   |NA                         |0: 0 (standard), 0 (new) |                      |NOT FOUND |              |If PDF is a picture PNG or JPG required! |
