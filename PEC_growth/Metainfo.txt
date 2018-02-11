@@ -1,0 +1,19 @@
+Name of Quantlet: 'PEC_growth’
+
+Published in: 'Principal Component Analysis in an Asymmetric Norm'
+
+Description: 'This is the application of  PrincipalExpectile algorithms to the Growth data’
+
+Keywords: expectile, pca, principal-components, quantile
+
+See also: 'PEC_algorithm_princdir.R , PEC_algorithm_topdown.R’
+
+Author: Petra Burdejova
+
+Submitted:  Sun, Feb 11 2018 by Petra Burdejova
+
+Input: 
+
+Output:  Plots of expectile components
+
+Example: 'PrincipalExpetile (PEC) components for the expectile levels 0.05, 0.5, and 0.95.'
