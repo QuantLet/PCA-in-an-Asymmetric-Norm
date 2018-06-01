@@ -1,4 +1,4 @@
-Name of Quantlet: 'PEC_temperature'
+﻿Naame of Quantlet: "PEC_temperature"
 
 Published in: 'Principal Component Analysis in an Asymmetric Norm'
 
@@ -6,7 +6,7 @@ Description: 'This is the application of TopDown, BottomUp and PrincipalExpectil
 
 Keywords: expectile, pca, principal-components, quantile
 
-See also: 'PEC_algorithm_princdir.R , PEC_algorithm_topdown.R’
+See also: 'PEC_algorithm_princdir.R , PEC_algorithm_topdown.R'
 
 Author: Ngoc M. Tran, Maria Osipenko, Petra Burdejova
 

@@ -1,4 +1,4 @@
-Name of Quantlet: 'PEC_fMRI'
+﻿Name of Quantlet: "PEC_fMRI"
 
 Published in: Principal Component Analysis in an Asymmetric Norm
 
@@ -6,14 +6,14 @@ Description: 'This is the application of  PrincipalExpectile algorithms to the f
 
 Keywords: expectile, pca, principal-components, quantile
 
-See also: 'PEC_algorithm_princdir.R , PEC_algorithm_topdown.R’
+See also: "PEC_algorithm_princdir.R , PEC_algorithm_topdown.R"
 
 Author: Ngoc M. Tran, Maria Osipenko, Petra Burdejova
 
-Submitted:  Sept 07 2016 by Petra Burdejova
+Submitted: "Sept 07 2016 by Petra Burdejova"
 
-Input: 'per_voxel_data.RData, Risk_Att.mat'
+Input: "per_voxel_data.RData, Risk_Att.mat"
 
 Output:  Plots of expectile components and scores
 
-Example:  PrincipalExpetile (PEC) components for the expectile levels 0.05, …, 0.95.'
+Example:  "PrincipalExpetile (PEC) components for the expectile levels 0.05, …, 0.95."
