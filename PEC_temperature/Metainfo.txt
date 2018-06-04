@@ -1,4 +1,4 @@
-﻿Naame of Quantlet: "PEC_temperature"
+﻿Name of Quantlet: "PEC_temperature"
 
 Published in: 'Principal Component Analysis in an Asymmetric Norm'
 
