@@ -5,8 +5,6 @@
 </div>
 
 ```
-﻿Name of Quantlet: PEC_temperature
-
 Published in: Principal Component Analysis in an Asymmetric Norm
 
 Description: This is the application of TopDown, BottomUp and PrincipalExpectile algorithms to the Chinese weather data
