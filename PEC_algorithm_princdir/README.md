@@ -5,15 +5,13 @@
 </div>
 
 ```
-﻿Name of Quantlet: PEC_algorithm_princdir
-
 Published in: Principal Component Analysis in an Asymmetric Norm
 
-Description: ‘The source code of PrincipalExpectile algorithms
+Description: ‘The source code of PrincipalExpectile algorithms'
 
 Keywords: expectile, pca, principal-components, quantile
 
-See also: ‘PEC_temperature.R, PEC_fMRI.R, PEC_algorithm_topdown.R
+See also: ‘PEC_temperature.R, PEC_fMRI.R, PEC_algorithm_topdown.R'
 
 Author: Ngoc M. Tran, Maria Osipenko
 
