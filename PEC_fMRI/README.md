@@ -5,8 +5,6 @@
 </div>
 
 ```
-﻿Name of Quantlet: PEC_fMRI
-
 Published in: Principal Component Analysis in an Asymmetric Norm
 
 Description: This is the application of  PrincipalExpectile algorithms to the fMRI data
